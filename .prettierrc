@@ -1,4 +1,11 @@
 {
+  "bracketSameLine": true,
+  "objectWrap": "preserve",
+  "bracketSpacing": true,
+  "semi": false,
   "singleQuote": true,
-  "trailingComma": "all"
+  "arrowParens": "avoid",
+  "trailingComma": "all",
+  "tabWidth": 4,
+  "useTabs": true
 }
